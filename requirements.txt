@@ -5,3 +5,4 @@ sqlite3
 db.py
 matplotlib>=1.4
 lifelines
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
